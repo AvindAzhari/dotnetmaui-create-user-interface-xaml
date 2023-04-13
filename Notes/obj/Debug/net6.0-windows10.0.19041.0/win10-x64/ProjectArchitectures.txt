@@ -1,0 +1,1 @@
+C:\Users\avinf\OneDrive\Desktop\mslearn-dotnetmaui-create-user-interface-xaml-main\exercise2\Notes\Notes.csproj;x64
